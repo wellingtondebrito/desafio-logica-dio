@@ -8,7 +8,7 @@ let vilaoDerrotado = 4
 // atacando o vilão e ganhando xp
 do {
     vilaoDerrotado === vilaoDerrotado;
-    xp = 100 * vilao
+    xp = 100 * vilaoDerrotado
     console.log("você matou", vilaoDerrotado, "vilão e agora tem", xp, "xp")
 }while(vilao < 1)
 
